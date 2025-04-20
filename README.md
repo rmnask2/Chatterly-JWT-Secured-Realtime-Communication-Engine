@@ -173,7 +173,8 @@ Chatterly comes with 32 beautiful themes powered by DaisyUI. Users can change th
 4. Watch as the entire app transforms instantly!
 
 ## 📱 Screen Captures
-
+### Signup Page
+![Signup Page](signup_page.png)
 ### Login Page
 ![Login Page](login_page.png)
 
